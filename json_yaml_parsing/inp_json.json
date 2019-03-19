@@ -1,0 +1,10 @@
+[
+  {
+    "driver": {
+      "name": "average_price",
+      "lag": 2,
+      "granularity": "QUARTERLY",
+      "invoker" : "growth"
+    }
+  }
+]
