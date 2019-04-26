@@ -20,4 +20,6 @@ The goal of the project is to create a placeholder for all the important code sn
 - 16 : Simple example of Feature Selection on insurance data.
 - 17 : Simple example to why Linear Regression isn't used in Classification.
 - 18 : Plots for Odds, Odds Ratio and Cross-Entropy Loss function.
+- 19 : Random Forest with OOB_Score
+- 20 : Stacking Classifier.
 ___
